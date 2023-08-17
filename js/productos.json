@@ -1,0 +1,322 @@
+[
+    {
+        "id": "chocolate-1",
+        "titulo": "Helado 1",
+        "imagen": "./img/chocolate/helado1.jpeg",
+        "categoria": {
+            "nombre": "Chocolates",
+            "id": "chocolates"
+        },
+        "precio": "1200"
+    },
+    {
+        "id": "chocolate-2",
+        "titulo": "Helado 2",
+        "imagen": "./img/chocolate/helado2.png",
+        "categoria": {
+            "nombre": "Chocolates",
+            "id": "chocolates"
+        },
+        "precio": "1200"
+    },
+    {
+        "id": "chocolate-3",
+        "titulo": "Helado 3",
+        "imagen": "./img/chocolate/helado3.jpeg",
+        "categoria": {
+            "nombre": "Chocolates",
+            "id": "chocolates"
+        },
+        "precio": "1200"
+    },
+    {
+        "id": "chocolate-4",
+        "titulo": "Helado 4",
+        "imagen": "./img/chocolate/helado4.png",
+        "categoria": {
+            "nombre": "Chocolates",
+            "id": "chocolates"
+        },
+        "precio": "1200"
+    },
+    {
+        "id": "chocolate-5",
+        "titulo": "Helado 5",
+        "imagen": "./img/chocolate/helado5.jpeg",
+        "categoria": {
+            "nombre": "Chocolates",
+            "id": "chocolates"
+        },
+        "precio": "1200"
+    },
+    {
+        "id": "chocolate-6",
+        "titulo": "Helado 6",
+        "imagen": "./img/chocolate/helado6.jpeg",
+        "categoria": {
+            "nombre": "Chocolates",
+            "id": "chocolates"
+        },
+        "precio": "1200"
+    },
+    {
+        "id": "chocolate-7",
+        "titulo": "Helado 7",
+        "imagen": "./img/chocolate/helado7.jpeg",
+        "categoria": {
+            "nombre": "Chocolates",
+            "id": "chocolates"
+        },
+        "precio": "1200"
+    },
+    {
+        "id": "chocolate-8",
+        "titulo": "Helado 8",
+        "imagen": "./img/chocolate/helado8.png",
+        "categoria": {
+            "nombre": "Chocolates",
+            "id": "chocolates"
+        },
+        "precio": "1200"
+    },
+    {
+        "id": "chocolate-9",
+        "titulo": "Helado 9",
+        "imagen": "./img/chocolate/helado9.jpeg",
+        "categoria": {
+            "nombre": "Chocolates",
+            "id": "chocolates"
+        },
+        "precio": "1200"
+    },
+    {
+        "id": "chocolate-10",
+        "titulo": "Helado 10",
+        "imagen": "./img/chocolate/helado10.jpeg",
+        "categoria": {
+            "nombre": "Chocolates",
+            "id": "chocolates"
+        },
+        "precio": "1200"
+    },
+    {
+        "id": "cremas-1",
+        "titulo": "Helado 11",
+        "imagen": "./img/cremas/helado1.jpeg",
+        "categoria": {
+            "nombre": "Cremas",
+            "id": "cremas"
+        },
+        "precio": "1000"
+    },
+    {
+        "id": "cremas-2",
+        "titulo": "Helado 12",
+        "imagen": "./img/cremas/helado2.png",
+        "categoria": {
+            "nombre": "Cremas",
+            "id": "cremas"
+        },
+        "precio": "1000"
+    },
+    {
+        "id": "cremas-3",
+        "titulo": "Helado 13",
+        "imagen": "./img/cremas/helado3.jpeg",
+        "categoria": {
+            "nombre": "Cremas",
+            "id": "cremas"
+        },
+        "precio": "1000"
+    },
+    {
+        "id": "cremas-4",
+        "titulo": "Helado 14",
+        "imagen": "./img/cremas/helado4.jpeg",
+        "categoria": {
+            "nombre": "Cremas",
+            "id": "cremas"
+        },
+        "precio": "1000"
+    },
+    {
+        "id": "cremas-5",
+        "titulo": "Helado 15",
+        "imagen": "./img/cremas/helado5.png",
+        "categoria": {
+            "nombre": "Cremas",
+            "id": "cremas"
+        },
+        "precio": "1000"
+    },
+    {
+        "id": "cremas-6",
+        "titulo": "Helado 16",
+        "imagen": "./img/cremas/helado6.jpeg",
+        "categoria": {
+            "nombre": "Cremas",
+            "id": "cremas"
+        },
+        "precio": "1000"
+    },
+    {
+        "id": "cremas-7",
+        "titulo": "Helado 17",
+        "imagen": "./img/cremas/helado7.jpeg",
+        "categoria": {
+            "nombre": "Cremas",
+            "id": "cremas"
+        },
+        "precio": "1000"
+    },
+    {
+        "id": "cremas-8",
+        "titulo": "Helado 18",
+        "imagen": "./img/cremas/helado8.jpeg",
+        "categoria": {
+            "nombre": "Cremas",
+            "id": "cremas"
+        },
+        "precio": "1000"
+    },
+    {
+        "id": "cremas-9",
+        "titulo": "Helado 19",
+        "imagen": "./img/cremas/helado9.jpeg",
+        "categoria": {
+            "nombre": "Cremas",
+            "id": "cremas"
+        },
+        "precio": "1000"
+    },
+    {
+        "id": "cremas-10",
+        "titulo": "Helado 20",
+        "imagen": "./img/cremas/helado10.png",
+        "categoria": {
+            "nombre": "Cremas",
+            "id": "cremas"
+        },
+        "precio": "1000"
+    },
+    {
+        "id": "cremas-11",
+        "titulo": "Helado 21",
+        "imagen": "./img/cremas/helado11.jpeg",
+        "categoria": {
+            "nombre": "Cremas",
+            "id": "cremas"
+        },
+        "precio": "1000"
+    },
+    {
+        "id": "cremas-12",
+        "titulo": "Helado 22",
+        "imagen": "./img/cremas/helado12.jpeg",
+        "categoria": {
+            "nombre": "Cremas",
+            "id": "cremas"
+        },
+        "precio": "1000"
+    },
+    {
+        "id": "cremas-13",
+        "titulo": "Helado 23",
+        "imagen": "./img/cremas/helado13.jpeg",
+        "categoria": {
+            "nombre": "Cremas",
+            "id": "cremas"
+        },
+        "precio": "1000"
+    },
+    {
+        "id": "frutal-1",
+        "titulo": "Helado 24",
+        "imagen": "./img/frutales/helado1.jpeg",
+        "categoria": {
+            "nombre": "Frutales",
+            "id": "frutales"
+        },
+        "precio": "1500"
+    },
+    {
+        "id": "frutal-2",
+        "titulo": "Helado 25",
+        "imagen": "./img/frutales/helado2.jpeg",
+        "categoria": {
+            "nombre": "Frutales",
+            "id": "frutales"
+        },
+        "precio": "1500"
+    },
+    {
+        "id": "frutal-3",
+        "titulo": "Helado 26",
+        "imagen": "./img/frutales/helado3.jpeg",
+        "categoria": {
+            "nombre": "Frutales",
+            "id": "frutales"
+        },
+        "precio": "1500"
+    },
+    {
+        "id": "frutal-4",
+        "titulo": "Helado 27",
+        "imagen": "./img/frutales/helado4.jpeg",
+        "categoria": {
+            "nombre": "Frutales",
+            "id": "frutales"
+        },
+        "precio": "1500"
+    },
+    {
+        "id": "frutal-5",
+        "titulo": "Helado 28",
+        "imagen": "./img/frutales/helado5.jpeg",
+        "categoria": {
+            "nombre": "Frutales",
+            "id": "frutales"
+        },
+        "precio": "1500"
+    },
+    {
+        "id": "frutal-6",
+        "titulo": "Helado 29",
+        "imagen": "./img/frutales/helado6.jpeg",
+        "categoria": {
+            "nombre": "Frutales",
+            "id": "frutales"
+        },
+        "precio": "1500"
+    },
+    {
+        "id": "frutal-7",
+        "titulo": "Helado 30",
+        "imagen": "./img/frutales/helado7.jpeg",
+        "categoria": {
+            "nombre": "Frutales",
+            "id": "frutales"
+        },
+        "precio": "1500"
+    },
+    {
+        "id": "frutal-8",
+        "titulo": "Helado 31",
+        "imagen": "./img/frutales/helado8.jpeg",
+        "categoria": {
+            "nombre": "Frutales",
+            "id": "frutales"
+        },
+        "precio": "1500"
+    },
+    {
+        "id": "frutal-9",
+        "titulo": "Helado 32",
+        "imagen": "./img/frutales/helado9.jpeg",
+        "categoria": {
+            "nombre": "Frutales",
+            "id": "frutales"
+        },
+        "precio": "1500"
+    }
+]
